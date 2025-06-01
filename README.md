@@ -22,7 +22,7 @@ This project is a machine learning-based web application that predicts the estim
 
 ## Tech Stack
 
-* **Frontend:** React.js (or any UI used)
+* **Frontend:** React.js 
 * **Backend/API:** Python, Flask
 * **Machine Learning:** scikit-learn, pandas, NumPy
 * **Model Type:** Regression (Random Forest)
